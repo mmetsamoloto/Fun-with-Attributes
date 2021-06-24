@@ -1,0 +1,7 @@
+C:\Users\Intern 2\source\repos\FunWithAttributes\FunWithAttributes\bin\Debug\FunWithAttributes.exe.config
+C:\Users\Intern 2\source\repos\FunWithAttributes\FunWithAttributes\bin\Debug\FunWithAttributes.exe
+C:\Users\Intern 2\source\repos\FunWithAttributes\FunWithAttributes\bin\Debug\FunWithAttributes.pdb
+C:\Users\Intern 2\source\repos\FunWithAttributes\FunWithAttributes\obj\Debug\FunWithAttributes.csprojAssemblyReference.cache
+C:\Users\Intern 2\source\repos\FunWithAttributes\FunWithAttributes\obj\Debug\FunWithAttributes.csproj.CoreCompileInputs.cache
+C:\Users\Intern 2\source\repos\FunWithAttributes\FunWithAttributes\obj\Debug\FunWithAttributes.exe
+C:\Users\Intern 2\source\repos\FunWithAttributes\FunWithAttributes\obj\Debug\FunWithAttributes.pdb
